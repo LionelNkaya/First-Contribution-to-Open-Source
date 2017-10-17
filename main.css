@@ -3,7 +3,13 @@ body {
     color:  #2c3e50;
 }
 
-h1, p, h2, h3  {
+.title {
+    text-align: center;
+}
+
+h1, p, h2, h3, a  {
+    padding-top: 15px;
+    padding-left: 30px;
     font-family: Helvetica;
     font-size: 100;
 }
