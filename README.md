@@ -1,4 +1,4 @@
-# <a href="https://gitcheatsheet.lionelnkaya.com" target="_blank">First Contribution to Open Source</a>
+# <a href="https://lionl-n.github.io/First-Contribution-to-Open-Source/" target="_blank">First Contribution to Open Source</a>
 
 Hello all, 
 
